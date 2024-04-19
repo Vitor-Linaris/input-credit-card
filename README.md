@@ -5,14 +5,14 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
 [x] Desenvolva a aplicação mobile first. <br>
 [x] Utilize apenas HTML, CSS e JavaScript. <br>
 
-- Crie uma página que renderiza um cartão de crédito e um formulário.
-  [x] Os _inputs_ do formulário deverão capturar as informações em tempo real.<br>
-  [x] Ao digitar em um campo, as informações do cartão de crédito deverão ser atualizadas automaticamente.<br>
+- Crie uma página que renderiza um cartão de crédito e um formulário. <br>
+  [x] Os _inputs_ do formulário deverão capturar as informações em tempo real. <br>
+  [x] Ao digitar em um campo, as informações do cartão de crédito deverão ser atualizadas automaticamente. <br>
 - Implemente o cartão com as seguintes informaçoes:
-  [x] Número.<br>
-  [x] Nome do(a) portador(a).<br>
-  [x] Data de validade, no modelo `mm/YY`.<br>
-  [x] Código de segurança (CVV).<br>
+  [x] Número. <br>
+  [x] Nome do(a) portador(a). <br>
+  [x] Data de validade, no modelo `mm/YY`. <br>
+  [x] Código de segurança (CVV). <br>
 
 ## 🔨 Desafios extras para quem quer ir além
 
@@ -20,7 +20,7 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
   [x] Adicione o CVV apenas no verso do cartão.<br>
   [x] O verso do cartão só deverá ser visível enquanto o _input_ que representa o **CVV** estiver selecionado.<br>
 
-## 🎨 Design Sugerido
+<!-- ## 🎨 Design Sugerido
 
 Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criatividade e fazer o seu próprio design.
 
@@ -31,7 +31,8 @@ Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criat
 ### Figma
 
 🔗 [Acesse o link do Figma](https://www.figma.com/community/file/1280597988349667150)
+ -->
 
 ### Tecnologias
 
-- `HTML, CSS e JavaScript`
+- `Vite, HTML, CSS e JavaScript`
