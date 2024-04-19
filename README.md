@@ -2,23 +2,23 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
 
 ## 🔨 Requisitos
 
-[x] Desenvolva a aplicação mobile[]first.
-[x] Utilize apenas HTML, CSS e JavaScript.
+[x] Desenvolva a aplicação mobile first. <br>
+[x] Utilize apenas HTML, CSS e JavaScript. <br>
 
 - Crie uma página que renderiza um cartão de crédito e um formulário.
-  [x] Os _inputs_ do formulário deverão capturar as informações em tempo real.
-  [x] Ao digitar em um campo, as informações do cartão de crédito deverão ser atualizadas automaticamente.
+  [x] Os _inputs_ do formulário deverão capturar as informações em tempo real.<br>
+  [x] Ao digitar em um campo, as informações do cartão de crédito deverão ser atualizadas automaticamente.<br>
 - Implemente o cartão com as seguintes informaçoes:
-  [x] Número.
-  [x] Nome do(a) portador(a).
-  [x] Data de validade, no modelo `mm/YY`.
-  [x] Código de segurança (CVV).
+  [x] Número.<br>
+  [x] Nome do(a) portador(a).<br>
+  [x] Data de validade, no modelo `mm/YY`.<br>
+  [x] Código de segurança (CVV).<br>
 
 ## 🔨 Desafios extras para quem quer ir além
 
 - Implemente a frente e o verso do cartão
-  [x] Adicione o CVV apenas no verso do cartão.
-  [x] O verso do cartão só deverá ser visível enquanto o _input_ que representa o **CVV** estiver selecionado.
+  [x] Adicione o CVV apenas no verso do cartão.<br>
+  [x] O verso do cartão só deverá ser visível enquanto o _input_ que representa o **CVV** estiver selecionado.<br>
 
 ## 🎨 Design Sugerido
 
