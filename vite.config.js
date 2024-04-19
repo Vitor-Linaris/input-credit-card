@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/mp-input-cartao-de-credito/deployments",
+  base: "/mp-input-cartao-de-credito/",
 });
